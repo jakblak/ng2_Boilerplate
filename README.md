@@ -2,9 +2,9 @@
 
 ### Using
 ` SystemJS `
-` Angular 2.4 `
+` Angular 4.0 `
 
 ### Features
 - navbar
 - routing setup
-- app.template  -> loads navbar and RouterOutlet for Home Component
+- app.template  -> loads navbar and **RouterOutlet** for **Home Component**
