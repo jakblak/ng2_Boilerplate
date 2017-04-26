@@ -1,6 +1,6 @@
 ## Starting Point for Developing Angular Apps
 
-## Running Project
+### Running the Project
 1) Open a command prompt in the project's root directory
 
 2) Type: `npm install`
