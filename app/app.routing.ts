@@ -7,7 +7,7 @@ import { HomeComponent } from './home/home.component';
         RouterModule.forRoot([
             { path: '', component: HomeComponent },
             { path: '**', redirectTo: '', pathMatch: 'full' }
-        ] , { preloadingStrategy: PreloadAllModules }) // ,  {enableTracing: true} )
+        ] , { preloadingStrategy: PreloadAllModules })
     ],
     exports: [ RouterModule ]
 })
